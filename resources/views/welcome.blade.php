@@ -598,43 +598,43 @@
                                     <h3>Your</h3>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h3><span class="text-color-1">musician</span></h3>
+                                    <h3><span class="text-color-1">Welcome</span></h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>To</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3><span class="text-color-1">Project</span></h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Music</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Member</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3><span class="text-color-2">Kos</span></h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Six</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Collabolator</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Project</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3><span class="text-color-1">Gabut</span></h3>
                                 </div>
                                 <div class="swiper-slide">
                                     <h3>for</h3>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h3><span class="text-color-1">wedding</span></h3>
+                                    <h3><span class="text-color-1">Member</span></h3>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h3>Hire</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Your</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3><span class="text-color-2">Party</span></h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Band</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Hire</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Your</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3><span class="text-color-1">musician</span></h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>for</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3><span class="text-color-1">wedding</span></h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Hire</h3>
+                                    <h3>Kos</h3>
                                 </div>
                                 <div class="swiper-slide">
                                     <h3>Your</h3>
@@ -650,7 +650,7 @@
                     </div>
                     <div class="ms-text-line-2">
                         <div class="swiper-container ms-str-active scroll__text pt-20 pb-20">
-                            <div class="swiper-wrapper ms-str-active-wrapper">
+                            <div class="swiper-wrapper ms-st-active-wrapper">
                                 <div class="swiper-slide">
                                     <h3>Hire</h3>
                                 </div>
@@ -658,43 +658,43 @@
                                     <h3>Your</h3>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h3><span class="text-color-1">musician</span></h3>
+                                    <h3><span class="text-color-1">Welcome</span></h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>To</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3><span class="text-color-1">Project</span></h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Music</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Member</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3><span class="text-color-2">Kos</span></h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Six</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Collabolator</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3>Project</h3>
+                                </div>
+                                <div class="swiper-slide">
+                                    <h3><span class="text-color-1">Gabut</span></h3>
                                 </div>
                                 <div class="swiper-slide">
                                     <h3>for</h3>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h3><span class="text-color-1">wedding</span></h3>
+                                    <h3><span class="text-color-1">Member</span></h3>
                                 </div>
                                 <div class="swiper-slide">
-                                    <h3>Hire</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Your</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3><span class="text-color-2">Party</span></h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Band</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Hire</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Your</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3><span class="text-color-1">musician</span></h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>for</h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3><span class="text-color-1">wedding</span></h3>
-                                </div>
-                                <div class="swiper-slide">
-                                    <h3>Hire</h3>
+                                    <h3>Kos</h3>
                                 </div>
                                 <div class="swiper-slide">
                                     <h3>Your</h3>
